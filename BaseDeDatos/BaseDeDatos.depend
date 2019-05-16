@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1551304402 source:c:\users\luis\desktop\tarea_basededatos_luisthomson\basededatos\clases.cpp
+	<cstdlib>
+	<iostream>
+	"Estructuras.cpp"
+
+1551300437 source:c:\users\luis\desktop\tarea_basededatos_luisthomson\basededatos\estructuras.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+
+1551305228 source:c:\users\luis\desktop\tarea_basededatos_luisthomson\basededatos\funciones.cpp
+	<cstdlib>
+	<iostream>
+	"Clases.cpp"
+
+1551304722 source:c:\users\luis\desktop\tarea_basededatos_luisthomson\basededatos\main.cpp
+	<cstdlib>
+	<iostream>
+	"Clases.cpp"
+
+1551304402 c:\users\luis\desktop\tarea_basededatos_luisthomson\basededatos\clases.cpp
+	<cstdlib>
+	<iostream>
+	"Estructuras.cpp"
+
+1551300437 c:\users\luis\desktop\tarea_basededatos_luisthomson\basededatos\estructuras.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+

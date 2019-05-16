@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1551327658 source:c:\users\luis\desktop\problemabancos_luisthomson\problemabancos\estructuras.cpp
+	<iostream>
+	<cstdlib>
+
+1551400718 source:c:\users\luis\desktop\problemabancos_luisthomson\problemabancos\clases.cpp
+	<iostream>
+	<cstdlib>
+	"Estructuras.cpp"
+
+1551327658 c:\users\luis\desktop\problemabancos_luisthomson\problemabancos\estructuras.cpp
+	<iostream>
+	<cstdlib>
+
+1551451565 source:c:\users\luis\desktop\problemabancos_luisthomson\problemabancos\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	"Clases.cpp"
+
+1551400718 c:\users\luis\desktop\problemabancos_luisthomson\problemabancos\clases.cpp
+	<iostream>
+	<cstdlib>
+	"Estructuras.cpp"
+
+1551400869 source:c:\users\luis\desktop\problemabancos_luisthomson\problemabancos\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"Clases.cpp"
+
